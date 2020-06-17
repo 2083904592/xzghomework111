@@ -8,6 +8,7 @@ public class homework {
         System.out.println("打印成功");
         //打印等腰三角形
         System.out.println("打印成功");
+        System.out.println("利用for循环嵌套");
     }
 
 }
